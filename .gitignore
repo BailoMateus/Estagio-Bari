@@ -1,0 +1,29 @@
+# Ignorar arquivos de ambiente
+.env
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Notebooks temporários e checkpoints
+.ipynb_checkpoints/
+
+# VSCode configs
+.vscode/
+
+# Ambientes virtuais
+env/
+.venv/
+venv/
+
+# Arquivos de log
+*.log
+
+# Dados temporários
+*.csv
+*.xlsx
+
+# Arquivos compactados
+*.zip
+*.tar.gz
